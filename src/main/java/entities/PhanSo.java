@@ -1,6 +1,5 @@
 package entities;
 
-import java.util.Scanner;
 
 public class PhanSo {
     private int tuSo, mauSo;
